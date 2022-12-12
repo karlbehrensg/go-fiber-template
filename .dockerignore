@@ -1,0 +1,15 @@
+/bin/
+/docs/
+/mocks/
+.devcontainer/
+.git/
+.dockerignore
+.env
+.env.example
+.gitignore
+.gitlab-ci.yml
+Dockerfile
+main
+README.md
+coverage
+clean_architecture.png

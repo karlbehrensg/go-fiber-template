@@ -1,0 +1,10 @@
+.env
+!.devcontainer/.env
+/vendor
+/docs
+/mocks
+coverage
+cover.out
+cover.html
+main
+/bin
